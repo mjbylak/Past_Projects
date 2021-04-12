@@ -1,0 +1,1 @@
+Outputs the sum of each the 4 columns in a 3x4 matrix
