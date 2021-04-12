@@ -1,0 +1,1 @@
+Checks if a list of user determined length has four consecutive fours
